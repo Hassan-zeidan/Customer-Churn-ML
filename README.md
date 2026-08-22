@@ -1,5 +1,3 @@
-# Customer-Churn-ML
-End-to-end customer churn prediction using EDA, Random Forest, XGBoost, cross-validation, and hyperparameter tuning.
 # Customer Churn Prediction Using Machine Learning and XGBoost
 
 An end-to-end machine learning project for predicting telecom customer churn using exploratory data analysis, preprocessing, Decision Trees, Random Forest, XGBoost, cross-validation, and hyperparameter tuning.
